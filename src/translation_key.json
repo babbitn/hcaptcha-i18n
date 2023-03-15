@@ -246,6 +246,24 @@
                     "aria_label_bug": "Give a detailed report of a bug you've encountered.",
                     "aria_label_accessibility": "View our accessibility option."
                 }
+            },
+            "navigation": {
+                "header": {
+                    "text": "Confirm Navigation"
+                },
+                "copy": {
+                    "confirmation": "Please select Confirm to follow the link, or Cancel to stay on the current screen."
+                },
+                "buttons": {
+                    "confirm": {
+                        "text": "Confirm",
+                        "aria_label": "Confirm Navigation"
+                    },
+                    "cancel": {
+                        "text": "Cancel",
+                        "aria_label": "Cancel Navigation"
+                    }
+                }
             }
         },
         "header": {
